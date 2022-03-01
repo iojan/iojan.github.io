@@ -6,9 +6,9 @@ document.addEventListener("DOMContentLoaded", function () {
   particlesJS('particles-js', {
     "particles": {
       "number": {
-        "value": 160,
+        "value": 10,
         "density": {
-          "enable": true,
+          "enable": false,
           "value_area": 500
         }
       },
@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       },
       "line_linked": {
-        "enable": false,
+        "enable": true,
         "distance": 150,
         "color": "#ffffff",
         "opacity": 0.4,

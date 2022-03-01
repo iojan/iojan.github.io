@@ -1,11 +1,11 @@
 # Site settings
-title: Sebastian Fernandez
+title: Sebastián Fernández
 description: Embedded Systems Engineer
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sef.ar" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Sebastian Fernandez
+username: Sebastián Fernández
 user_description: I'm a Embedded Systems Engineer from Argentina, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in world of Giving Circles working with Grapevine, a California based startup trying to improve the world through collaborative giving. I'm the first engineer they hired to work on the platform.
 user_title: Embedded Systems Engineer
 email: info@sef.ar
